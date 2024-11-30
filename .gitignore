@@ -1,0 +1,24 @@
+# Ignore pastas do IntelliJ IDEA
+.idea/
+
+# Ignore arquivos de projeto do IntelliJ IDEA
+*.iml
+
+# Ignore configurações do VS Code
+.vscode/
+
+# Ignore arquivos de sistema do Linux
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+lost+found/
+
+# Ignore arquivos de sistema do macOS
+.DS_Store
+
+# Ignore arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
